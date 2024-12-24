@@ -3,7 +3,7 @@
 		"name": "Dirt Canal Digger",
 		"unitType": "Civilian",
 		"movement": 2,
-		"requiredTech": "Physics",
+		"requiredTech": "Replaceable Parts",
 		"obsoleteTech": "Steam Power",
 		"uniques": [
 			"Can instantly construct a [Dirt Canal Construction Site] improvement <once> <in tiles without [Hill]> <after which this unit is consumed>"],
